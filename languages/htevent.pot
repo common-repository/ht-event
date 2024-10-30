@@ -1,0 +1,217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HT Event\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-25 04:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/htevent_custom-post-type.php:16
+msgid "Add New"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:63
+msgid "Add New Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:15
+msgid "Add New Item"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:58
+msgid "All Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:65
+msgid "Categories"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dev Items"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:61
+msgid "Edit Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:18
+msgid "Edit Item"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:68
+msgid "Event day:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:87
+msgid "Event Location:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:82
+msgid "Event Time:"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:24
+msgid "Featured Image"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:32
+msgid "Filter items list"
+msgstr ""
+
+#. Name of the plugin
+msgid "HT Event"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:12
+msgid "Htevent"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:12
+msgid "Htevent Options"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:11
+msgid "HTevents"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://demo.wphash.com/htevent/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://devitems.com"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:28
+msgid "Insert into item"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:13
+msgid "Item Archives"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:30
+msgid "Items list"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:31
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:64
+msgid "New Category Name"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:17
+msgid "New Item"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:22
+msgid "Not found"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:23
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:59
+msgid "Parent Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:60
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:14
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:9
+msgctxt "Post Type General Name"
+msgid "Htevents"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:10
+msgctxt "Post Type Singular Name"
+msgid "Htevent"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:26
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:57
+msgid "Search Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:21
+msgid "Search Item"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:70
+msgid "Select Day"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:25
+msgid "Set featured image"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:109
+msgid "Speaker description:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:104
+msgid "Speaker Designatin:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:92
+msgid "Speaker Name:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:114
+msgid "Trick Button Link:"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:119
+msgid "Trick Link:"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:62
+msgid "Update Category"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:19
+msgid "Update Item"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:100
+msgid "Upload"
+msgstr ""
+
+#: admin/htevent_custom-metabox.php:97
+msgid "Upload Image:"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:29
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:27
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/htevent_custom-post-type.php:20
+msgid "View Item"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress plugins for elementor."
+msgstr ""
